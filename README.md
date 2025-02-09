@@ -1,4 +1,4 @@
-# DBMS_Project
+# Global trend analyzer
 
 ## Steps to run/develop the code in your local enviornment
 
